@@ -12,15 +12,15 @@
 
 /* IMPORTANT: make sure to enable dark mode in discord settings for the theme to apply properly!!! */
 
-@import url('https://refact0r.github.io/midnight-discord/midnight.css');
+@import url('https://raw.githubusercontent.com/Droplet-Softworks/Droplet-For-Discord/refs/heads/main/droplet.css');
 
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'figtree';
+	--font: 'geist';
 
 	/* top left corner text */
-	--corner-text: 'Midnight';
+	--corner-text: 'Droplet';
 
 	/* color of status indicators and window controls */
 	--online-indicator: var(--accent-2); /* change to #23a55a for default green */
@@ -76,7 +76,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://upload.wikimedia.org/wikipedia/commons/c/c4/Font_Awesome_5_solid_moon.svg'); /* custom icon url */
+	--moon-icon-url: url('https://raw.githubusercontent.com/lukefv/dropletweb/refs/heads/main/public/favicon.svg?token=GHSAT0AAAAAAC25B4JOZQBYSDYTYRAGUSGEZ2PZAKA'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
