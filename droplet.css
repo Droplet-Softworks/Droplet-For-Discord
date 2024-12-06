@@ -65,7 +65,7 @@
 	/* change to block to show, none to hide */
 	--discord-icon: none; /* discord icon */
 	--moon-icon: block; /* moon icon */
-	--moon-icon-url: url('https://raw.githubusercontent.com/lukefv/dropletweb/32643d8e65e9876de20399b283cde3e94eba2781/public/favicon.svg?token=AXV3ZYO4TBG2RU7S3M3UJMDHJ7DUK'); /* custom icon url */
+	--moon-icon-url: url('https://raw.githubusercontent.com/lukefv/dropletweb/refs/heads/main/public/favicon.svg?token=GHSAT0AAAAAAC3QWSQ326O3MQJJIBSUO6QOZ2SPXRQ'); /* custom icon url */
 	--moon-icon-size: auto;
 
 	/* filter uncolorable elements to fit theme */
